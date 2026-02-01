@@ -27,6 +27,9 @@
 - `HelloController` — связывает FXML, Canvas и игровую логику (Client).
 - `HelloApplication` — запуск приложения.
 
+<img width="1011" height="1011" alt="Диаграмма без названия drawio (5)" src="https://github.com/user-attachments/assets/3cd475b9-a081-47a7-b092-dfdafde27c02" />
+
+
 ## Зависимости
 - JDK: 17+ (совместимый).
 - Maven: 3.6+ или Maven Wrapper (`mvnw.cmd`).
